@@ -1,2 +1,1 @@
-# odin-recipes
-First Odin assignment website
+This is my first assignment from the-odin-project to build a recipe-website!
