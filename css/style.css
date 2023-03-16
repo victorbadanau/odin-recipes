@@ -1,0 +1,16 @@
+body {
+    background-color: #D4DEB1;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+    color: #101F25;
+    font-weight: 950;
+    font-style: italic;
+}
+h2, p, ol, ul {
+    color: #093426;
+}
+img {
+    height: auto;
+    width: 500px;
+}
